@@ -54,6 +54,16 @@ c)Larger storage Capacity
 
  c) MACos
 
+ It has mainly two major regions -
+
+ a) User space :
+
+ This is where applications and programs run.
+
+ b)Kernel spave:
+
+ It is a dedicated memory area where the core of the OS, the kernel, resides and executes. It's a protected environment where the kernel manages hardware resources, performs system-level tasks, and provides a stable foundation for running applications. 
+
 
  **4) CLOSED SOURCE and OPEN SOURCE -**
 
@@ -66,4 +76,28 @@ c)Larger storage Capacity
  c)Some examples can be Linux, GIMP, LibreOffice etc.
 
 
- ii)
+ ii) ClOSED SOURCE:
+
+ a) Software where the source code is not publicly available and only the developers or the company that owns it can access, modify, or distribute it.
+
+ b) Some examples can be Microsoft Windows, macOS etc.
+
+
+ **5)Front-end and Back-end  -**
+
+i)Front-end :
+
+a)Also reffered to as client side
+
+b)It is the part of a website/app that the user sees and interacts with in their browser.
+
+c)It's main job is  to make the site look good, be easy to use, and work smoothly on all devices.
+
+
+ii)Back-end :
+
+a)Also reffered to as server side.
+
+b)It is the part of the system that runs on the server — processes requests and stores data.
+
+c)It's main job is to process the user's requests and manage performance.
